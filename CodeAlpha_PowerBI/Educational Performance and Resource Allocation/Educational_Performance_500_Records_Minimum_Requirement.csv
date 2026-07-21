@@ -1,0 +1,501 @@
+Student_ID,Student_Name,Department,Semester,Subject,Marks,Attendance(%),Performance_Category,Books_Issued,Lab_Hours,Resource_Gap_Flag
+S0001,Sneha Gupta,Civil,1,Concrete,37,84,Poor,6,41,Yes
+S0002,Aarav Gupta,ECE,6,VLSI,53,96,Average,7,15,No
+S0003,Vivaan Gupta,Mechanical,6,Thermodynamics,70,61,Good,15,13,Yes
+S0004,Sneha Sharma,CSE,8,DSA,74,99,Good,4,66,No
+S0005,Nikhil Verma,IT,2,Web Tech,90,98,Excellent,6,75,No
+S0006,Diya Patel,ECE,4,Signals,51,58,Average,8,58,Yes
+S0007,Vivaan Gupta,Electrical,2,Power Systems,69,73,Average,8,63,Yes
+S0008,Diya Sharma,ECE,1,VLSI,41,80,Poor,13,78,Yes
+S0009,Sneha Gupta,Civil,4,Surveying,89,95,Excellent,14,31,No
+S0010,Aarav Singh,ECE,4,Signals,47,85,Poor,1,47,Yes
+S0011,Priya Sharma,CSE,7,DBMS,56,95,Average,5,25,No
+S0012,Vivaan Patel,ECE,4,VLSI,48,94,Poor,15,50,Yes
+S0013,Diya Kumar,Civil,2,Surveying,69,61,Average,4,24,Yes
+S0014,Diya Patel,Mechanical,8,CAD,66,76,Average,11,37,No
+S0015,Sneha Gupta,IT,5,Python,41,80,Poor,10,73,Yes
+S0016,Aditya Kumar,IT,8,Web Tech,51,71,Average,2,62,Yes
+S0017,Aditya Patel,Mechanical,1,Mechanics,69,90,Average,6,25,No
+S0018,Aditya Kumar,IT,3,Python,56,89,Average,10,38,No
+S0019,Priya Kumar,Civil,8,Concrete,82,92,Good,10,70,No
+S0020,Diya Sharma,IT,7,Web Tech,43,91,Poor,12,66,Yes
+S0021,Priya Gupta,ECE,2,Signals,86,88,Excellent,12,37,No
+S0022,Meera Sharma,Civil,7,Hydraulics,35,56,Poor,10,58,Yes
+S0023,Aarav Sharma,ECE,5,VLSI,64,73,Average,13,17,Yes
+S0024,Kabir Singh,IT,6,Python,83,98,Good,6,35,No
+S0025,Priya Gupta,Civil,4,Concrete,35,71,Poor,1,34,Yes
+S0026,Aditya Patel,CSE,6,DBMS,52,78,Average,13,20,No
+S0027,Rahul Singh,IT,6,Web Tech,87,88,Excellent,13,52,No
+S0028,Aarav Kumar,Mechanical,1,Thermodynamics,86,100,Excellent,5,71,No
+S0029,Nikhil Patel,IT,2,Python,45,72,Poor,14,78,Yes
+S0030,Kabir Verma,Mechanical,3,Thermodynamics,72,90,Good,6,46,No
+S0031,Vivaan Kumar,CSE,6,DSA,51,78,Average,8,15,No
+S0032,Kabir Singh,IT,8,Cloud,80,89,Good,0,13,Yes
+S0033,Ananya Singh,Civil,2,Surveying,63,89,Average,5,63,No
+S0034,Meera Patel,Electrical,3,Power Systems,35,56,Poor,2,59,Yes
+S0035,Ananya Verma,Electrical,6,Circuits,68,72,Average,1,63,Yes
+S0036,Rohan Sharma,IT,7,Web Tech,45,99,Poor,1,42,Yes
+S0037,Diya Verma,IT,2,Python,50,95,Average,9,78,No
+S0038,Sneha Kumar,CSE,5,DBMS,35,71,Poor,5,50,Yes
+S0039,Diya Gupta,Electrical,4,Machines,74,98,Good,2,53,Yes
+S0040,Kabir Kumar,Mechanical,4,Thermodynamics,36,62,Poor,12,67,Yes
+S0041,Rohan Singh,Mechanical,5,Mechanics,37,74,Poor,14,12,Yes
+S0042,Ananya Sharma,IT,8,Python,71,81,Good,4,31,No
+S0043,Kabir Gupta,Civil,1,Surveying,39,84,Poor,7,44,Yes
+S0044,Rohan Gupta,CSE,8,DSA,65,76,Average,8,42,No
+S0045,Sneha Verma,Mechanical,6,Mechanics,82,83,Good,13,50,No
+S0046,Priya Kumar,IT,8,Web Tech,64,93,Average,9,80,No
+S0047,Vivaan Kumar,ECE,1,Signals,68,98,Average,6,27,No
+S0048,Aditya Singh,Mechanical,4,Mechanics,58,68,Average,8,61,Yes
+S0049,Rahul Sharma,Electrical,3,Power Systems,35,82,Poor,15,12,Yes
+S0050,Rohan Gupta,Mechanical,8,Thermodynamics,55,90,Average,0,26,Yes
+S0051,Ananya Gupta,Electrical,3,Circuits,56,71,Average,12,52,Yes
+S0052,Rahul Gupta,CSE,7,DSA,37,84,Poor,3,14,Yes
+S0053,Priya Verma,Civil,3,Hydraulics,38,75,Poor,12,67,Yes
+S0054,Priya Singh,ECE,8,Signals,77,72,Good,7,72,Yes
+S0055,Aarav Sharma,Electrical,6,Power Systems,77,87,Good,15,56,No
+S0056,Sneha Verma,IT,8,Python,76,72,Good,1,45,Yes
+S0057,Ananya Singh,CSE,6,DBMS,72,99,Good,2,32,Yes
+S0058,Meera Patel,Electrical,2,Circuits,44,93,Poor,2,45,Yes
+S0059,Nikhil Patel,Electrical,5,Machines,43,74,Poor,9,38,Yes
+S0060,Ananya Gupta,ECE,8,Signals,58,99,Average,10,61,No
+S0061,Vivaan Singh,ECE,4,DSP,55,88,Average,12,18,No
+S0062,Sneha Verma,Civil,4,Surveying,37,84,Poor,2,55,Yes
+S0063,Rahul Gupta,ECE,1,VLSI,56,80,Average,12,47,No
+S0064,Nikhil Patel,Mechanical,3,CAD,44,97,Poor,10,30,Yes
+S0065,Sneha Patel,Electrical,3,Circuits,69,81,Average,1,52,Yes
+S0066,Vivaan Singh,ECE,2,Signals,54,64,Average,11,37,Yes
+S0067,Aarav Gupta,ECE,3,Signals,44,61,Poor,12,33,Yes
+S0068,Vivaan Gupta,Mechanical,3,Mechanics,50,59,Average,6,17,Yes
+S0069,Priya Singh,CSE,7,DSA,67,99,Average,12,80,No
+S0070,Rohan Patel,CSE,1,OS,53,56,Average,13,77,Yes
+S0071,Diya Gupta,IT,2,Python,41,82,Poor,12,55,Yes
+S0072,Vivaan Kumar,Electrical,7,Machines,42,59,Poor,9,65,Yes
+S0073,Rahul Patel,Mechanical,3,CAD,45,97,Poor,12,18,Yes
+S0074,Aarav Singh,Electrical,2,Power Systems,43,74,Poor,10,71,Yes
+S0075,Aarav Singh,ECE,6,DSP,53,85,Average,0,60,Yes
+S0076,Meera Singh,IT,8,Web Tech,91,96,Excellent,3,27,No
+S0077,Aditya Gupta,CSE,6,DBMS,35,61,Poor,1,44,Yes
+S0078,Meera Verma,Civil,4,Surveying,35,81,Poor,15,74,Yes
+S0079,Nikhil Singh,Mechanical,2,CAD,53,68,Average,15,73,Yes
+S0080,Nikhil Gupta,Civil,2,Concrete,59,84,Average,5,41,No
+S0081,Aditya Gupta,CSE,8,OS,86,85,Excellent,12,13,No
+S0082,Ananya Patel,CSE,6,DSA,35,65,Poor,15,10,Yes
+S0083,Aditya Gupta,Civil,7,Hydraulics,35,73,Poor,9,62,Yes
+S0084,Rahul Singh,Mechanical,4,Mechanics,35,60,Poor,12,35,Yes
+S0085,Aarav Sharma,Civil,7,Hydraulics,89,93,Excellent,5,26,No
+S0086,Aarav Gupta,Mechanical,2,Thermodynamics,54,88,Average,0,54,Yes
+S0087,Priya Kumar,Civil,3,Surveying,46,66,Poor,5,75,Yes
+S0088,Nikhil Kumar,Mechanical,5,CAD,39,75,Poor,14,67,Yes
+S0089,Nikhil Singh,Mechanical,8,CAD,71,98,Good,2,26,Yes
+S0090,Kabir Patel,Electrical,5,Circuits,55,89,Average,14,19,No
+S0091,Sneha Patel,Electrical,1,Circuits,68,57,Average,9,70,Yes
+S0092,Kabir Verma,CSE,3,OS,61,62,Average,11,64,Yes
+S0093,Priya Sharma,Mechanical,1,CAD,91,97,Excellent,12,63,No
+S0094,Meera Verma,Electrical,8,Circuits,82,99,Good,5,10,No
+S0095,Priya Gupta,CSE,7,DBMS,36,83,Poor,9,60,Yes
+S0096,Aditya Singh,Electrical,3,Circuits,50,66,Average,0,54,Yes
+S0097,Diya Gupta,Civil,8,Concrete,70,81,Good,0,51,Yes
+S0098,Sneha Gupta,ECE,7,VLSI,38,69,Poor,12,30,Yes
+S0099,Sneha Patel,IT,4,Web Tech,74,75,Good,9,30,No
+S0100,Meera Sharma,Civil,1,Concrete,44,85,Poor,3,58,Yes
+S0101,Aarav Gupta,Civil,6,Surveying,46,72,Poor,0,65,Yes
+S0102,Meera Sharma,Mechanical,4,CAD,80,97,Good,7,48,No
+S0103,Nikhil Singh,IT,2,Cloud,59,56,Average,5,73,Yes
+S0104,Priya Gupta,Electrical,6,Power Systems,35,80,Poor,12,10,Yes
+S0105,Sneha Patel,CSE,1,DBMS,47,86,Poor,2,58,Yes
+S0106,Rohan Singh,IT,3,Web Tech,54,83,Average,1,33,Yes
+S0107,Rohan Gupta,ECE,4,VLSI,86,91,Excellent,7,16,No
+S0108,Sneha Patel,ECE,3,DSP,61,56,Average,1,78,Yes
+S0109,Diya Singh,Civil,5,Concrete,76,97,Good,1,68,Yes
+S0110,Nikhil Kumar,CSE,7,DSA,63,100,Average,13,25,No
+S0111,Meera Verma,IT,1,Python,42,81,Poor,10,27,Yes
+S0112,Sneha Gupta,CSE,3,DSA,40,84,Poor,0,66,Yes
+S0113,Ananya Sharma,IT,8,Python,76,99,Good,13,64,No
+S0114,Rahul Patel,Civil,4,Hydraulics,72,70,Good,13,68,Yes
+S0115,Diya Patel,IT,5,Cloud,67,64,Average,11,15,Yes
+S0116,Aarav Gupta,IT,3,Cloud,53,83,Average,11,66,No
+S0117,Vivaan Sharma,IT,8,Web Tech,71,71,Good,8,22,Yes
+S0118,Rahul Verma,IT,8,Cloud,62,64,Average,10,71,Yes
+S0119,Meera Sharma,IT,7,Python,35,57,Poor,2,44,Yes
+S0120,Diya Verma,IT,1,Python,66,65,Average,8,80,Yes
+S0121,Kabir Singh,Electrical,8,Machines,44,89,Poor,0,27,Yes
+S0122,Meera Patel,IT,5,Web Tech,35,61,Poor,6,33,Yes
+S0123,Vivaan Patel,Mechanical,3,CAD,77,87,Good,0,21,Yes
+S0124,Rahul Sharma,Electrical,8,Power Systems,87,91,Excellent,13,31,No
+S0125,Kabir Kumar,Mechanical,2,Mechanics,43,59,Poor,9,26,Yes
+S0126,Priya Singh,Civil,5,Concrete,35,74,Poor,13,34,Yes
+S0127,Ananya Kumar,CSE,5,DBMS,82,90,Good,11,56,No
+S0128,Rohan Patel,IT,4,Cloud,44,59,Poor,3,49,Yes
+S0129,Aarav Gupta,ECE,5,VLSI,60,63,Average,7,46,Yes
+S0130,Rahul Kumar,CSE,1,DBMS,87,93,Excellent,2,64,Yes
+S0131,Rohan Patel,CSE,5,OS,66,95,Average,5,16,No
+S0132,Aarav Patel,ECE,7,Signals,51,94,Average,5,14,No
+S0133,Aarav Gupta,Mechanical,5,Mechanics,54,65,Average,8,40,Yes
+S0134,Priya Sharma,Civil,7,Hydraulics,75,100,Good,12,25,No
+S0135,Rohan Patel,IT,5,Python,47,97,Poor,13,77,Yes
+S0136,Rahul Verma,ECE,7,Signals,68,100,Average,5,49,No
+S0137,Ananya Patel,Electrical,5,Machines,43,55,Poor,1,15,Yes
+S0138,Vivaan Singh,Civil,2,Surveying,43,78,Poor,8,28,Yes
+S0139,Rohan Patel,Mechanical,5,Thermodynamics,86,100,Excellent,4,15,No
+S0140,Sneha Verma,CSE,4,OS,37,68,Poor,10,80,Yes
+S0141,Priya Gupta,Electrical,1,Power Systems,40,78,Poor,5,18,Yes
+S0142,Aditya Verma,Mechanical,5,Mechanics,70,79,Good,9,56,No
+S0143,Diya Verma,Civil,4,Concrete,37,57,Poor,14,28,Yes
+S0144,Rohan Sharma,CSE,8,DBMS,44,67,Poor,4,55,Yes
+S0145,Rahul Gupta,Electrical,8,Circuits,55,72,Average,10,68,Yes
+S0146,Sneha Singh,IT,2,Web Tech,67,100,Average,6,30,No
+S0147,Meera Patel,Mechanical,3,Mechanics,39,83,Poor,0,49,Yes
+S0148,Rahul Sharma,Civil,3,Concrete,37,81,Poor,1,40,Yes
+S0149,Ananya Verma,IT,7,Web Tech,35,57,Poor,6,42,Yes
+S0150,Sneha Sharma,IT,6,Cloud,35,66,Poor,8,25,Yes
+S0151,Nikhil Kumar,Electrical,6,Circuits,40,62,Poor,15,22,Yes
+S0152,Rohan Sharma,IT,5,Web Tech,35,63,Poor,11,46,Yes
+S0153,Rohan Kumar,IT,3,Python,35,67,Poor,11,22,Yes
+S0154,Diya Sharma,CSE,1,OS,65,61,Average,3,73,Yes
+S0155,Aditya Sharma,Mechanical,6,Thermodynamics,39,66,Poor,10,57,Yes
+S0156,Diya Patel,Electrical,1,Circuits,64,73,Average,14,61,Yes
+S0157,Rohan Patel,Civil,5,Hydraulics,66,67,Average,8,52,Yes
+S0158,Priya Sharma,ECE,1,VLSI,35,73,Poor,8,55,Yes
+S0159,Vivaan Patel,ECE,1,DSP,43,97,Poor,2,53,Yes
+S0160,Ananya Sharma,CSE,3,OS,60,75,Average,11,55,No
+S0161,Vivaan Kumar,CSE,3,OS,51,94,Average,8,76,No
+S0162,Rahul Kumar,ECE,3,DSP,70,75,Good,3,57,No
+S0163,Sneha Sharma,IT,8,Cloud,52,66,Average,1,75,Yes
+S0164,Meera Kumar,CSE,4,DBMS,35,57,Poor,9,32,Yes
+S0165,Meera Gupta,IT,3,Cloud,40,87,Poor,0,26,Yes
+S0166,Aditya Singh,ECE,3,VLSI,67,89,Average,15,12,No
+S0167,Vivaan Patel,Mechanical,5,Mechanics,51,69,Average,3,16,Yes
+S0168,Ananya Patel,CSE,4,DBMS,48,98,Poor,5,58,Yes
+S0169,Sneha Gupta,Civil,4,Concrete,87,99,Excellent,2,65,Yes
+S0170,Kabir Kumar,CSE,6,DSA,35,79,Poor,9,44,Yes
+S0171,Kabir Singh,IT,2,Web Tech,45,57,Poor,1,31,Yes
+S0172,Vivaan Patel,IT,4,Cloud,70,72,Good,14,35,Yes
+S0173,Meera Sharma,CSE,7,DSA,86,85,Excellent,13,68,No
+S0174,Priya Gupta,Civil,1,Hydraulics,56,56,Average,5,38,Yes
+S0175,Rahul Sharma,Mechanical,3,CAD,60,65,Average,11,35,Yes
+S0176,Aditya Gupta,IT,3,Python,58,68,Average,15,51,Yes
+S0177,Diya Sharma,Civil,7,Surveying,60,69,Average,14,54,Yes
+S0178,Ananya Verma,IT,4,Python,35,66,Poor,9,68,Yes
+S0179,Priya Kumar,ECE,5,VLSI,66,68,Average,13,30,Yes
+S0180,Meera Singh,IT,6,Cloud,75,72,Good,3,78,Yes
+S0181,Aarav Verma,Civil,5,Hydraulics,72,87,Good,12,41,No
+S0182,Ananya Sharma,ECE,4,DSP,45,86,Poor,1,10,Yes
+S0183,Aditya Verma,IT,4,Python,72,84,Good,15,80,No
+S0184,Kabir Kumar,IT,2,Web Tech,65,78,Average,1,45,Yes
+S0185,Diya Gupta,Civil,1,Surveying,63,78,Average,11,28,No
+S0186,Diya Patel,Electrical,8,Circuits,45,90,Poor,2,18,Yes
+S0187,Aditya Kumar,ECE,4,DSP,81,78,Good,12,10,No
+S0188,Ananya Sharma,Electrical,2,Circuits,60,65,Average,10,44,Yes
+S0189,Nikhil Singh,IT,8,Cloud,86,96,Excellent,3,29,No
+S0190,Aarav Singh,ECE,4,VLSI,35,60,Poor,3,12,Yes
+S0191,Priya Patel,Civil,5,Hydraulics,73,91,Good,8,46,No
+S0192,Kabir Sharma,CSE,2,DSA,74,66,Good,8,20,Yes
+S0193,Aarav Patel,Civil,5,Surveying,76,87,Good,14,11,No
+S0194,Rahul Verma,ECE,6,Signals,35,69,Poor,10,73,Yes
+S0195,Aditya Singh,IT,5,Python,35,56,Poor,13,32,Yes
+S0196,Kabir Patel,Civil,6,Hydraulics,66,73,Average,3,56,Yes
+S0197,Aditya Verma,ECE,2,Signals,66,100,Average,15,29,No
+S0198,Kabir Gupta,ECE,1,VLSI,35,62,Poor,12,59,Yes
+S0199,Sneha Singh,Civil,4,Concrete,48,81,Poor,4,32,Yes
+S0200,Ananya Sharma,Civil,3,Surveying,36,55,Poor,14,65,Yes
+S0201,Rahul Singh,Civil,8,Hydraulics,57,83,Average,4,49,No
+S0202,Rohan Gupta,Civil,5,Surveying,44,67,Poor,15,65,Yes
+S0203,Priya Sharma,Mechanical,8,CAD,67,82,Average,3,10,No
+S0204,Diya Verma,CSE,2,DSA,83,87,Good,6,43,No
+S0205,Aarav Singh,Civil,1,Concrete,35,65,Poor,15,62,Yes
+S0206,Diya Verma,CSE,5,DBMS,57,76,Average,7,63,No
+S0207,Rahul Gupta,CSE,5,DSA,44,92,Poor,7,29,Yes
+S0208,Diya Singh,Mechanical,5,Thermodynamics,35,78,Poor,7,42,Yes
+S0209,Rohan Verma,Civil,7,Surveying,57,69,Average,13,75,Yes
+S0210,Aarav Gupta,IT,8,Python,71,87,Good,14,59,No
+S0211,Aarav Kumar,Civil,5,Concrete,73,81,Good,1,21,Yes
+S0212,Rahul Gupta,IT,2,Web Tech,41,92,Poor,1,79,Yes
+S0213,Vivaan Kumar,CSE,7,OS,76,86,Good,12,44,No
+S0214,Ananya Patel,CSE,2,DSA,63,82,Average,8,65,No
+S0215,Priya Gupta,Mechanical,8,Thermodynamics,46,93,Poor,0,44,Yes
+S0216,Sneha Verma,CSE,2,DBMS,35,68,Poor,9,31,Yes
+S0217,Priya Sharma,Civil,7,Hydraulics,47,55,Poor,12,43,Yes
+S0218,Aditya Singh,CSE,7,DBMS,49,62,Poor,10,13,Yes
+S0219,Diya Singh,ECE,5,VLSI,84,99,Good,1,32,Yes
+S0220,Nikhil Singh,Civil,1,Concrete,87,90,Excellent,9,38,No
+S0221,Sneha Patel,Mechanical,4,Thermodynamics,69,86,Average,1,60,Yes
+S0222,Vivaan Gupta,Civil,2,Concrete,50,79,Average,1,58,Yes
+S0223,Diya Verma,Electrical,6,Power Systems,66,95,Average,13,75,No
+S0224,Kabir Patel,ECE,8,Signals,42,83,Poor,12,34,Yes
+S0225,Diya Verma,Civil,5,Surveying,92,96,Excellent,1,66,Yes
+S0226,Kabir Verma,Mechanical,5,Mechanics,45,98,Poor,12,37,Yes
+S0227,Rahul Patel,ECE,5,Signals,70,74,Good,0,55,Yes
+S0228,Aarav Gupta,IT,2,Web Tech,71,65,Good,4,26,Yes
+S0229,Ananya Verma,IT,4,Cloud,42,87,Poor,1,68,Yes
+S0230,Rahul Kumar,ECE,6,Signals,57,71,Average,13,59,Yes
+S0231,Sneha Gupta,Electrical,3,Power Systems,55,64,Average,0,56,Yes
+S0232,Rohan Gupta,CSE,3,DBMS,57,70,Average,7,48,Yes
+S0233,Kabir Sharma,ECE,1,Signals,75,95,Good,13,19,No
+S0234,Aarav Kumar,Electrical,7,Power Systems,50,87,Average,15,38,No
+S0235,Rahul Sharma,ECE,1,Signals,76,69,Good,15,70,Yes
+S0236,Kabir Gupta,Electrical,1,Machines,59,96,Average,5,64,No
+S0237,Priya Patel,IT,4,Web Tech,93,100,Excellent,0,44,Yes
+S0238,Kabir Sharma,Civil,7,Surveying,48,69,Poor,4,18,Yes
+S0239,Vivaan Gupta,Electrical,3,Circuits,38,62,Poor,8,47,Yes
+S0240,Nikhil Verma,ECE,3,VLSI,35,56,Poor,10,28,Yes
+S0241,Sneha Verma,Civil,3,Concrete,77,90,Good,5,48,No
+S0242,Kabir Patel,IT,3,Cloud,35,74,Poor,12,71,Yes
+S0243,Diya Gupta,Electrical,1,Power Systems,48,97,Poor,2,69,Yes
+S0244,Vivaan Gupta,Mechanical,3,Thermodynamics,88,97,Excellent,13,19,No
+S0245,Diya Kumar,IT,2,Cloud,35,66,Poor,7,10,Yes
+S0246,Rahul Gupta,CSE,8,DSA,85,90,Excellent,8,75,No
+S0247,Vivaan Patel,Electrical,6,Circuits,56,67,Average,13,62,Yes
+S0248,Ananya Patel,Mechanical,7,Thermodynamics,44,59,Poor,0,59,Yes
+S0249,Meera Gupta,ECE,1,DSP,55,64,Average,13,17,Yes
+S0250,Meera Patel,IT,6,Python,35,80,Poor,6,74,Yes
+S0251,Aarav Verma,CSE,7,OS,86,98,Excellent,2,19,Yes
+S0252,Meera Kumar,IT,3,Cloud,40,57,Poor,8,25,Yes
+S0253,Ananya Kumar,CSE,7,OS,67,68,Average,15,77,Yes
+S0254,Sneha Gupta,Mechanical,7,CAD,61,90,Average,3,30,No
+S0255,Diya Kumar,IT,6,Web Tech,54,65,Average,10,58,Yes
+S0256,Priya Kumar,IT,8,Python,47,86,Poor,1,70,Yes
+S0257,Vivaan Patel,Electrical,2,Power Systems,84,95,Good,9,61,No
+S0258,Ananya Singh,Civil,3,Concrete,35,73,Poor,1,73,Yes
+S0259,Rohan Patel,Mechanical,5,Mechanics,56,55,Average,14,54,Yes
+S0260,Rahul Gupta,ECE,8,DSP,66,86,Average,11,15,No
+S0261,Diya Singh,IT,5,Python,35,74,Poor,7,58,Yes
+S0262,Rahul Verma,ECE,1,VLSI,40,90,Poor,7,27,Yes
+S0263,Rohan Verma,CSE,1,DSA,51,63,Average,0,18,Yes
+S0264,Rohan Gupta,Civil,2,Hydraulics,54,91,Average,5,20,No
+S0265,Sneha Sharma,CSE,1,DSA,55,76,Average,13,32,No
+S0266,Kabir Sharma,Civil,5,Surveying,86,97,Excellent,8,15,No
+S0267,Sneha Singh,CSE,5,OS,76,87,Good,4,72,No
+S0268,Diya Patel,Mechanical,8,Thermodynamics,71,69,Good,12,77,Yes
+S0269,Aarav Sharma,ECE,4,DSP,53,69,Average,15,28,Yes
+S0270,Rohan Patel,ECE,3,DSP,57,99,Average,10,66,No
+S0271,Rohan Gupta,IT,5,Web Tech,40,76,Poor,3,34,Yes
+S0272,Vivaan Verma,Civil,7,Concrete,80,89,Good,11,76,No
+S0273,Nikhil Singh,Electrical,8,Machines,74,71,Good,14,66,Yes
+S0274,Rahul Verma,Civil,6,Hydraulics,39,70,Poor,12,23,Yes
+S0275,Diya Verma,Electrical,2,Circuits,66,94,Average,0,48,Yes
+S0276,Aarav Gupta,ECE,2,DSP,35,70,Poor,1,32,Yes
+S0277,Vivaan Verma,ECE,2,Signals,65,89,Average,0,72,Yes
+S0278,Rohan Singh,Electrical,7,Circuits,64,77,Average,9,18,No
+S0279,Diya Sharma,Mechanical,4,Mechanics,59,64,Average,8,30,Yes
+S0280,Priya Kumar,IT,3,Python,35,65,Poor,10,78,Yes
+S0281,Rohan Singh,Civil,1,Hydraulics,71,80,Good,14,38,No
+S0282,Aarav Sharma,IT,2,Web Tech,51,65,Average,15,42,Yes
+S0283,Meera Sharma,IT,6,Web Tech,40,74,Poor,13,13,Yes
+S0284,Aarav Gupta,IT,7,Python,50,76,Average,10,68,No
+S0285,Rahul Gupta,Civil,5,Hydraulics,69,60,Average,3,77,Yes
+S0286,Diya Patel,Electrical,1,Power Systems,81,99,Good,7,51,No
+S0287,Kabir Verma,IT,3,Web Tech,40,59,Poor,4,74,Yes
+S0288,Kabir Verma,IT,3,Python,58,72,Average,12,50,Yes
+S0289,Rohan Patel,Mechanical,4,CAD,49,74,Poor,5,52,Yes
+S0290,Sneha Singh,Electrical,6,Power Systems,35,82,Poor,1,78,Yes
+S0291,Ananya Kumar,Mechanical,7,Mechanics,54,63,Average,2,35,Yes
+S0292,Aditya Verma,ECE,1,DSP,87,100,Excellent,2,19,Yes
+S0293,Rahul Gupta,Mechanical,6,Thermodynamics,46,76,Poor,2,29,Yes
+S0294,Rohan Sharma,Civil,5,Concrete,47,95,Poor,13,51,Yes
+S0295,Vivaan Gupta,Civil,2,Surveying,46,98,Poor,12,54,Yes
+S0296,Priya Kumar,ECE,3,DSP,46,78,Poor,15,46,Yes
+S0297,Nikhil Singh,CSE,2,OS,75,82,Good,3,61,No
+S0298,Meera Singh,Electrical,6,Circuits,59,75,Average,4,39,No
+S0299,Aditya Gupta,Electrical,2,Circuits,39,68,Poor,10,63,Yes
+S0300,Ananya Patel,ECE,2,DSP,67,73,Average,5,46,Yes
+S0301,Rahul Verma,CSE,7,DBMS,65,73,Average,9,69,Yes
+S0302,Diya Verma,Civil,2,Hydraulics,66,98,Average,1,55,Yes
+S0303,Rohan Kumar,IT,1,Web Tech,35,58,Poor,5,21,Yes
+S0304,Priya Singh,CSE,1,DBMS,67,63,Average,15,37,Yes
+S0305,Priya Sharma,IT,7,Cloud,76,83,Good,11,32,No
+S0306,Nikhil Kumar,Mechanical,4,Thermodynamics,80,94,Good,8,57,No
+S0307,Rohan Gupta,CSE,7,DBMS,47,82,Poor,5,36,Yes
+S0308,Priya Patel,Electrical,3,Machines,36,64,Poor,9,29,Yes
+S0309,Rohan Gupta,IT,7,Cloud,52,80,Average,8,33,No
+S0310,Rohan Gupta,IT,2,Web Tech,35,77,Poor,15,55,Yes
+S0311,Meera Sharma,ECE,2,DSP,55,98,Average,3,47,No
+S0312,Kabir Kumar,ECE,8,Signals,83,83,Good,4,20,No
+S0313,Ananya Sharma,Mechanical,3,CAD,58,72,Average,5,28,Yes
+S0314,Aarav Verma,CSE,1,DBMS,62,84,Average,11,63,No
+S0315,Sneha Sharma,Electrical,6,Power Systems,53,64,Average,1,78,Yes
+S0316,Aditya Gupta,Mechanical,8,Mechanics,43,98,Poor,1,17,Yes
+S0317,Vivaan Kumar,Electrical,7,Machines,49,62,Poor,6,14,Yes
+S0318,Meera Verma,Mechanical,3,Thermodynamics,83,81,Good,15,11,No
+S0319,Rahul Verma,Civil,2,Concrete,54,74,Average,10,74,Yes
+S0320,Meera Kumar,Civil,2,Surveying,35,75,Poor,9,80,Yes
+S0321,Priya Kumar,Mechanical,6,CAD,55,97,Average,1,57,Yes
+S0322,Diya Verma,CSE,4,OS,68,99,Average,4,49,No
+S0323,Diya Singh,Mechanical,6,Mechanics,51,98,Average,13,56,No
+S0324,Diya Kumar,CSE,2,DBMS,62,83,Average,3,77,No
+S0325,Rahul Verma,Civil,3,Concrete,35,57,Poor,8,72,Yes
+S0326,Diya Patel,Civil,2,Hydraulics,59,62,Average,9,55,Yes
+S0327,Vivaan Gupta,Electrical,6,Power Systems,49,64,Poor,5,70,Yes
+S0328,Ananya Patel,ECE,3,Signals,69,64,Average,15,55,Yes
+S0329,Diya Sharma,ECE,8,VLSI,43,81,Poor,0,22,Yes
+S0330,Meera Singh,Electrical,5,Power Systems,39,68,Poor,13,22,Yes
+S0331,Ananya Kumar,Civil,5,Surveying,53,85,Average,12,78,No
+S0332,Rahul Verma,ECE,7,VLSI,58,67,Average,10,64,Yes
+S0333,Meera Verma,Mechanical,3,CAD,61,56,Average,6,53,Yes
+S0334,Ananya Verma,Civil,2,Concrete,74,98,Good,2,64,Yes
+S0335,Vivaan Kumar,Mechanical,2,Mechanics,35,79,Poor,10,78,Yes
+S0336,Aarav Verma,Electrical,3,Circuits,56,78,Average,12,33,No
+S0337,Diya Gupta,Electrical,1,Circuits,71,63,Good,6,66,Yes
+S0338,Rahul Kumar,Civil,4,Concrete,62,98,Average,5,30,No
+S0339,Rohan Kumar,Electrical,3,Circuits,43,83,Poor,3,70,Yes
+S0340,Vivaan Patel,Civil,4,Surveying,44,55,Poor,1,10,Yes
+S0341,Vivaan Singh,IT,8,Python,55,63,Average,5,69,Yes
+S0342,Rahul Sharma,CSE,5,OS,59,60,Average,4,75,Yes
+S0343,Meera Kumar,Civil,6,Concrete,67,55,Average,0,72,Yes
+S0344,Vivaan Sharma,CSE,1,DSA,35,61,Poor,13,43,Yes
+S0345,Meera Verma,ECE,5,DSP,44,65,Poor,10,12,Yes
+S0346,Sneha Verma,ECE,8,DSP,51,78,Average,4,60,No
+S0347,Aditya Sharma,Electrical,6,Machines,35,70,Poor,12,54,Yes
+S0348,Vivaan Singh,ECE,7,DSP,45,80,Poor,15,62,Yes
+S0349,Kabir Singh,CSE,2,DBMS,66,60,Average,2,12,Yes
+S0350,Rahul Kumar,IT,1,Python,37,79,Poor,5,71,Yes
+S0351,Rahul Kumar,Mechanical,4,CAD,35,71,Poor,3,38,Yes
+S0352,Diya Kumar,Mechanical,8,CAD,45,59,Poor,15,36,Yes
+S0353,Diya Singh,CSE,2,DBMS,35,62,Poor,0,34,Yes
+S0354,Aditya Sharma,Mechanical,3,Thermodynamics,54,61,Average,0,64,Yes
+S0355,Meera Patel,Mechanical,8,Mechanics,43,57,Poor,4,33,Yes
+S0356,Kabir Sharma,Electrical,8,Power Systems,35,70,Poor,13,35,Yes
+S0357,Aarav Singh,ECE,6,DSP,68,67,Average,6,11,Yes
+S0358,Priya Kumar,Electrical,7,Machines,41,92,Poor,6,25,Yes
+S0359,Rahul Gupta,IT,1,Python,35,55,Poor,0,46,Yes
+S0360,Kabir Gupta,IT,3,Cloud,55,83,Average,12,46,No
+S0361,Rohan Kumar,Electrical,3,Power Systems,63,98,Average,0,66,Yes
+S0362,Ananya Kumar,Electrical,5,Power Systems,42,58,Poor,13,77,Yes
+S0363,Aarav Gupta,IT,2,Cloud,58,92,Average,14,60,No
+S0364,Nikhil Patel,ECE,1,VLSI,56,64,Average,9,50,Yes
+S0365,Nikhil Sharma,Electrical,1,Circuits,65,98,Average,8,48,No
+S0366,Rohan Gupta,IT,2,Python,39,57,Poor,10,75,Yes
+S0367,Kabir Verma,Mechanical,2,Mechanics,40,72,Poor,8,30,Yes
+S0368,Nikhil Patel,Electrical,5,Machines,83,94,Good,7,28,No
+S0369,Rahul Verma,IT,6,Cloud,68,62,Average,9,24,Yes
+S0370,Kabir Singh,ECE,1,Signals,56,96,Average,14,45,No
+S0371,Aarav Singh,Mechanical,6,CAD,54,94,Average,1,73,Yes
+S0372,Kabir Verma,IT,7,Python,35,64,Poor,7,44,Yes
+S0373,Sneha Gupta,Mechanical,6,CAD,49,88,Poor,6,31,Yes
+S0374,Kabir Sharma,IT,7,Cloud,70,90,Good,5,58,No
+S0375,Priya Singh,IT,6,Python,43,58,Poor,13,78,Yes
+S0376,Aarav Gupta,IT,6,Python,51,78,Average,5,46,No
+S0377,Priya Gupta,ECE,6,Signals,74,87,Good,11,63,No
+S0378,Kabir Sharma,CSE,1,DBMS,70,68,Good,10,70,Yes
+S0379,Sneha Singh,IT,4,Cloud,85,93,Excellent,14,26,No
+S0380,Aarav Gupta,Mechanical,2,Mechanics,74,93,Good,2,11,Yes
+S0381,Aarav Sharma,Electrical,6,Machines,80,76,Good,3,80,No
+S0382,Diya Kumar,CSE,3,OS,47,66,Poor,11,56,Yes
+S0383,Vivaan Singh,Electrical,6,Circuits,35,56,Poor,3,80,Yes
+S0384,Sneha Verma,Civil,4,Concrete,53,77,Average,15,53,No
+S0385,Nikhil Patel,CSE,6,OS,48,90,Poor,5,22,Yes
+S0386,Kabir Verma,ECE,8,VLSI,38,73,Poor,4,36,Yes
+S0387,Vivaan Patel,Civil,2,Concrete,56,85,Average,3,15,No
+S0388,Meera Kumar,Electrical,1,Machines,42,85,Poor,8,42,Yes
+S0389,Sneha Gupta,Civil,5,Surveying,69,71,Average,1,68,Yes
+S0390,Ananya Kumar,Electrical,4,Power Systems,70,70,Good,5,62,Yes
+S0391,Kabir Kumar,CSE,7,DBMS,56,75,Average,9,64,No
+S0392,Nikhil Gupta,Mechanical,6,Thermodynamics,65,64,Average,10,60,Yes
+S0393,Rahul Kumar,ECE,6,Signals,81,77,Good,1,26,Yes
+S0394,Sneha Kumar,Mechanical,8,Mechanics,75,100,Good,9,55,No
+S0395,Rohan Verma,Electrical,3,Power Systems,76,69,Good,15,64,Yes
+S0396,Aditya Singh,ECE,2,VLSI,76,79,Good,13,47,No
+S0397,Kabir Patel,Civil,3,Surveying,63,70,Average,15,67,Yes
+S0398,Diya Patel,Electrical,3,Circuits,51,62,Average,4,27,Yes
+S0399,Nikhil Gupta,Civil,4,Hydraulics,63,96,Average,5,35,No
+S0400,Kabir Gupta,IT,1,Python,67,97,Average,12,22,No
+S0401,Meera Patel,Electrical,4,Machines,38,57,Poor,3,42,Yes
+S0402,Vivaan Singh,CSE,6,OS,50,86,Average,0,25,Yes
+S0403,Ananya Singh,Mechanical,5,Mechanics,53,98,Average,5,35,No
+S0404,Sneha Singh,Mechanical,2,Thermodynamics,81,77,Good,5,24,No
+S0405,Diya Verma,IT,8,Cloud,49,62,Poor,3,71,Yes
+S0406,Aarav Gupta,IT,3,Cloud,79,83,Good,11,54,No
+S0407,Ananya Kumar,ECE,6,Signals,72,62,Good,15,27,Yes
+S0408,Rahul Sharma,ECE,7,VLSI,45,73,Poor,10,54,Yes
+S0409,Aditya Kumar,Civil,1,Hydraulics,63,64,Average,2,22,Yes
+S0410,Priya Singh,IT,6,Cloud,35,56,Poor,15,36,Yes
+S0411,Aarav Sharma,Civil,6,Surveying,50,73,Average,5,72,Yes
+S0412,Kabir Sharma,IT,7,Cloud,76,89,Good,1,25,Yes
+S0413,Nikhil Sharma,Electrical,2,Power Systems,36,74,Poor,0,13,Yes
+S0414,Aditya Patel,ECE,8,DSP,35,73,Poor,8,76,Yes
+S0415,Diya Kumar,Mechanical,3,Mechanics,35,55,Poor,2,65,Yes
+S0416,Ananya Patel,CSE,3,DBMS,35,59,Poor,4,63,Yes
+S0417,Aarav Sharma,Civil,2,Concrete,60,61,Average,8,13,Yes
+S0418,Ananya Gupta,IT,3,Cloud,75,83,Good,14,25,No
+S0419,Nikhil Patel,Mechanical,4,Mechanics,59,98,Average,9,65,No
+S0420,Diya Sharma,Civil,3,Hydraulics,69,75,Average,6,64,No
+S0421,Rohan Singh,IT,8,Python,88,91,Excellent,3,62,No
+S0422,Ananya Sharma,ECE,8,Signals,69,76,Average,15,74,No
+S0423,Ananya Verma,Civil,5,Concrete,64,96,Average,4,62,No
+S0424,Rohan Verma,Civil,7,Hydraulics,35,71,Poor,9,34,Yes
+S0425,Aarav Singh,Civil,6,Concrete,50,62,Average,13,12,Yes
+S0426,Nikhil Singh,ECE,6,VLSI,35,63,Poor,15,72,Yes
+S0427,Diya Kumar,IT,6,Cloud,36,56,Poor,15,73,Yes
+S0428,Vivaan Kumar,Civil,1,Surveying,57,94,Average,2,39,Yes
+S0429,Aditya Verma,Civil,2,Concrete,46,74,Poor,14,62,Yes
+S0430,Aditya Patel,CSE,8,OS,72,80,Good,4,30,No
+S0431,Nikhil Kumar,Civil,3,Surveying,70,82,Good,2,35,Yes
+S0432,Sneha Patel,ECE,5,Signals,44,75,Poor,15,32,Yes
+S0433,Aditya Sharma,IT,6,Cloud,54,90,Average,14,37,No
+S0434,Ananya Patel,IT,2,Web Tech,56,78,Average,14,14,No
+S0435,Kabir Kumar,Electrical,3,Machines,59,98,Average,11,69,No
+S0436,Priya Gupta,IT,6,Web Tech,81,85,Good,13,49,No
+S0437,Kabir Patel,CSE,6,DBMS,50,66,Average,14,20,Yes
+S0438,Rohan Singh,ECE,4,Signals,54,79,Average,13,69,No
+S0439,Rahul Patel,CSE,5,DSA,42,61,Poor,15,61,Yes
+S0440,Rahul Sharma,ECE,1,DSP,64,87,Average,1,52,Yes
+S0441,Ananya Patel,CSE,6,DSA,72,89,Good,10,44,No
+S0442,Aarav Singh,Mechanical,8,Mechanics,74,93,Good,15,34,No
+S0443,Diya Patel,ECE,7,VLSI,65,60,Average,0,23,Yes
+S0444,Aditya Singh,IT,7,Cloud,56,88,Average,2,14,Yes
+S0445,Meera Patel,IT,8,Python,40,60,Poor,5,68,Yes
+S0446,Aditya Gupta,Civil,1,Concrete,82,85,Good,13,44,No
+S0447,Ananya Gupta,IT,2,Web Tech,35,71,Poor,11,73,Yes
+S0448,Sneha Verma,Mechanical,5,Mechanics,41,75,Poor,15,29,Yes
+S0449,Sneha Gupta,IT,8,Cloud,46,87,Poor,1,39,Yes
+S0450,Ananya Gupta,Electrical,3,Power Systems,41,79,Poor,14,17,Yes
+S0451,Rohan Singh,IT,8,Web Tech,58,88,Average,1,39,Yes
+S0452,Rohan Kumar,Civil,3,Concrete,82,93,Good,9,29,No
+S0453,Vivaan Sharma,Mechanical,8,Thermodynamics,68,100,Average,12,40,No
+S0454,Kabir Patel,Electrical,6,Power Systems,76,86,Good,6,24,No
+S0455,Ananya Gupta,Mechanical,6,CAD,41,67,Poor,1,73,Yes
+S0456,Aditya Verma,CSE,8,OS,70,84,Good,7,68,No
+S0457,Kabir Patel,CSE,8,DBMS,62,91,Average,6,71,No
+S0458,Vivaan Gupta,ECE,7,Signals,39,91,Poor,12,24,Yes
+S0459,Aarav Kumar,CSE,2,OS,50,86,Average,13,60,No
+S0460,Sneha Kumar,CSE,2,DSA,65,62,Average,10,42,Yes
+S0461,Rohan Kumar,Civil,1,Hydraulics,35,81,Poor,0,68,Yes
+S0462,Sneha Sharma,Mechanical,8,Mechanics,55,90,Average,8,70,No
+S0463,Diya Singh,CSE,1,DSA,50,65,Average,5,32,Yes
+S0464,Ananya Kumar,Electrical,2,Machines,65,90,Average,0,40,Yes
+S0465,Aarav Sharma,IT,4,Python,70,73,Good,2,45,Yes
+S0466,Kabir Patel,Civil,2,Concrete,35,67,Poor,14,68,Yes
+S0467,Sneha Singh,IT,5,Python,35,62,Poor,11,16,Yes
+S0468,Kabir Singh,ECE,1,Signals,56,66,Average,12,35,Yes
+S0469,Nikhil Sharma,Mechanical,5,Mechanics,43,77,Poor,2,12,Yes
+S0470,Ananya Kumar,CSE,7,DBMS,35,61,Poor,0,52,Yes
+S0471,Priya Singh,CSE,2,DSA,51,59,Average,14,67,Yes
+S0472,Rahul Kumar,CSE,5,OS,69,93,Average,6,70,No
+S0473,Diya Kumar,Civil,5,Hydraulics,66,78,Average,11,49,No
+S0474,Priya Kumar,CSE,7,DBMS,54,94,Average,2,71,Yes
+S0475,Meera Verma,IT,2,Web Tech,65,62,Average,2,44,Yes
+S0476,Priya Gupta,Mechanical,8,Thermodynamics,45,88,Poor,9,40,Yes
+S0477,Nikhil Singh,ECE,6,Signals,79,86,Good,6,70,No
+S0478,Aditya Singh,IT,3,Python,82,88,Good,9,66,No
+S0479,Kabir Verma,Electrical,3,Circuits,57,73,Average,2,18,Yes
+S0480,Diya Singh,IT,4,Web Tech,47,59,Poor,6,37,Yes
+S0481,Kabir Gupta,IT,5,Python,74,96,Good,2,50,Yes
+S0482,Diya Patel,IT,4,Python,43,63,Poor,6,69,Yes
+S0483,Diya Singh,Mechanical,8,Mechanics,83,92,Good,2,16,Yes
+S0484,Priya Sharma,Mechanical,4,Mechanics,39,66,Poor,1,47,Yes
+S0485,Sneha Singh,Electrical,8,Power Systems,89,96,Excellent,2,15,Yes
+S0486,Meera Kumar,ECE,1,Signals,87,100,Excellent,12,25,No
+S0487,Vivaan Sharma,Mechanical,3,CAD,58,84,Average,1,72,Yes
+S0488,Nikhil Singh,IT,2,Cloud,42,65,Poor,0,76,Yes
+S0489,Aarav Sharma,Civil,3,Concrete,62,73,Average,15,73,Yes
+S0490,Diya Patel,ECE,4,Signals,59,58,Average,9,68,Yes
+S0491,Diya Kumar,Mechanical,7,CAD,56,67,Average,4,36,Yes
+S0492,Kabir Kumar,Mechanical,1,Thermodynamics,58,93,Average,6,19,No
+S0493,Nikhil Gupta,CSE,4,DSA,81,89,Good,7,32,No
+S0494,Aditya Kumar,CSE,4,DBMS,65,74,Average,8,19,Yes
+S0495,Kabir Patel,IT,4,Web Tech,53,84,Average,6,43,No
+S0496,Aditya Patel,IT,8,Cloud,74,96,Good,4,72,No
+S0497,Kabir Verma,CSE,8,OS,56,93,Average,12,75,No
+S0498,Rohan Gupta,Electrical,2,Power Systems,76,93,Good,3,63,No
+S0499,Priya Sharma,CSE,3,OS,70,69,Good,3,12,Yes
+S0500,Meera Sharma,CSE,4,DBMS,54,92,Average,9,50,No
